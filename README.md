@@ -9,6 +9,6 @@ Olá!<br>Me chamo Antônio e estou cursando informática na EEEP.Deputado Robert
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-<img width="240" height="320" alt="image" src="https://github.com/user-attachments/assets/83475588-1724-4620-b4af-e0164d6b0820" />
+<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/648d849a-df16-4889-838d-ef04c452c995" />
 
-
+<img src="./https://share.google/3lFthsk0ABUFeB5TN">
