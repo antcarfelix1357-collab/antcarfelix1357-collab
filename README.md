@@ -3,7 +3,7 @@
 # 💫 About Me:
 Olá!<br>Me chamo Antônio e estou cursando informática na EEEP.Deputado Roberto Mesquita 
 
-## "Na física, a força resultante determina a aceleração, mas na vida, resultado extraordinários não surgem de forças isoladas, mas de forças direcionadas e impulsionadas na direção certa" 🏆 🔱
+## "Na física, a força resultante determina a aceleração, mas na vida, resultados extraordinários não surgem de forças isoladas, mas de forças direcionadas e impulsionadas na direção certa" 🏆 🔱
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
