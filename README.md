@@ -3,8 +3,7 @@
 # 💫 About Me:
 Olá!<br>Me chamo Antônio e estou cursando informática na EEEP.Deputado Roberto Mesquita 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Antonioz14 &theme=merko&no-frame=false&no-bg=true&margin-w=4)
+## "Na física, a força resultante determina a aceleração, mas na vida, resultado extraordinários não surgem de forças isoladas, mas de forças direcionadas e impulsionadas na direção certa" 🏆 🔱
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
